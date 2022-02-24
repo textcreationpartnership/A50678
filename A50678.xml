@@ -1,0 +1,487 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preacht at the Cathedral Church in Norwich, upon the 11th of April, 1696, the day of His Majesties coronation / by Henry Meriton ...</title>
+            <author>Meriton, Henry, d. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50678</idno>
+            <idno type="STC">Wing M1815</idno>
+            <idno type="STC">ESTC R32083</idno>
+            <idno type="EEBO-CITATION">12319467</idno>
+            <idno type="OCLC">ocm 12319467</idno>
+            <idno type="VID">59445</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59445)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1016:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preacht at the Cathedral Church in Norwich, upon the 11th of April, 1696, the day of His Majesties coronation / by Henry Meriton ...</title>
+                  <author>Meriton, Henry, d. 1707.</author>
+               </titleStmt>
+               <extent>[2], 37 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Battersby ... and John Place ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon preached on the coronation day.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59445:1"/>
+            <pb facs="tcp:59445:1" rendition="simple:additions"/>
+            <p>SERMON Preacht at the <hi>Cathedral Church</hi> IN NORWICH, Upon the 11<hi rend="sup">th</hi> of <hi>April,</hi> 1696<g ref="char:punc">▪</g> The DAY of His Majeſties CORONATION.</p>
+            <p>By <hi>HENRY MERITON,</hi> Rector of <hi>Oxborough</hi> in <hi>Norfolk.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be Sold by <hi>Eliz<g ref="char:punc">▪</g> Whi<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ck</hi> near <hi>Stationers-Hall.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59445:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:59445:2"/>
+            <head>1 Sam. X. 24.</head>
+            <epigraph>
+               <q>And Samuel ſaid unto all the People, ſee ye him whom the Lord bath choſen, that there is none like him among the People; and all the people ſhouted and ſaid, God ſave the King.</q>
+            </epigraph>
+            <p>IN the 8th Chapt. V. 5. the People of <hi>Iſrael</hi> repair<note place="margin">Ch. 8. V. 5.</note> to <hi>Ramah,</hi> to the Prophet <hi>Samuel,</hi> and very pertly demand a King.</p>
+            <p>At which he could not but expreſs a juſt reſentment; not becauſe the deſire of a King was ſinful, for God Al<g ref="char:EOLhyphen"/>mighty<note place="margin">V. 6.</note> 
+               <note place="margin">
+                  <hi>Dent.</hi> 17. 15.</note> had long ſince promiſed them one: But<note place="margin">
+                  <hi>Gen.</hi> 49. 10.</note>
+            </p>
+            <p n="1">1. The Demand was out of Seaſon; they are impatient till the Promiſe had gone its full time, and ſo like over<g ref="char:EOLhyphen"/>haſty Midwives ſpoil the Birth, and turn it into a curſe to them, <hi>preſently make us a King,</hi> ſay they.</p>
+            <p n="2">2. The Manner was very impetuous and peremptory; they come ſtrutting up to God's Deputy <hi>Samuel,</hi> not with an Humble Petition, but with a menacing Remon<g ref="char:EOLhyphen"/>ſtrance; <hi>q. d.</hi> know that <hi>a King we will have, and there<g ref="char:EOLhyphen"/>fore make us one,</hi> for there ſhall be one elſe, whether you<note place="margin">v. 19.</note> will or no.</p>
+            <p n="3">3. They ſinned in bearing ſuch a fond affection to the Nations Faſhion, to which they were not to be conforma<g ref="char:EOLhyphen"/>ble at all; <hi>Have not all the neighbour Nations Kings to rule</hi>
+               <note place="margin">
+                  <hi>Num.</hi> 23. 9.</note> 
+               <hi>them, and muſt we be like no body?</hi>
+            </p>
+            <p>They ſeem not at all to be ſolicitous about the Religion of their King, any more then others; if they have but a King, if he comes with whole Troops of Prieſts of <hi>Baal,</hi> never ſo profeſt an Idolator, reſolving to force them to his Idol Sacrifice; no matter what God they have, ſo they have a King.</p>
+            <pb n="2" facs="tcp:59445:3"/>
+            <p n="4">4. Their ſin was a fooliſh piece of Infidelity, in quitting<note place="margin">V. 20.</note> the Divine Protection, of which they had had ſo freſh Experience in the former Chapter; inſtead of a Cedar in <hi>Lebanon,</hi> they run under the ſhadow of a Bramble; in<g ref="char:EOLhyphen"/>ſtead of an Almighty Arm, they catch hold upon an Arm that, as the Scripture ſays, <hi>hath neither Sinew nor Bone in it, an Arm of Fleſh.</hi>
+            </p>
+            <p>This might well ſtir up the Prophet's Indignation, to ſee the Great God of Heaven, as it were, Abdicated of his own People.</p>
+            <p>Well, <hi>Samuel</hi> is commanded to comply with them, they ſhall have a King; ſee how frightfully he deſcribes him, from Verſe 11 to 18.</p>
+            <p>I know ſome Interpret the <hi>Miſpat</hi> here, to be a Patent for the Arbitrary Power of Princes; and think them<g ref="char:EOLhyphen"/>ſelves obliged from this Scripture, very Loyally to offer their Sheep, Fields and Vineyards, Men-Servants, and Maid-Servants, Sons and Daughters, as a Sacrifice to that <hi>Bell</hi> and <hi>Dragon,</hi> of abſolute Prerogative; as if the Caſe of <hi>Bathſheba</hi> and <hi>Naboath,</hi> were but the juſt Exerciſe of Kingly Power, and this Text were a Warrant for it.</p>
+            <p>
+               <note place="margin">Ch. 10. 25.</note>Thanks be to God, we have other Rules of Govern<g ref="char:EOLhyphen"/>ment, <hi>Ch.</hi> 10. 25. Rules, not from the <hi>Extempore</hi> di<g ref="char:EOLhyphen"/>ctates and wills of Princes, but Laws to be written in a Book, laid up before the Lord in the Sanctuary, as the Fundamental Conſtitutions, and <hi>Magna Charta</hi> of their<note place="margin">Ezek. 45. 9. 46. 18.</note> Nation, by which they were to be Governed, as <hi>Deut.</hi> 17. 15, 16, 17. So then, theſe Verſes ſeem only to be a Deſcription of the manner of the King; they ask a King, according to the Faſhion of their Neighbour Nations. Now we know, in thoſe Eaſtern Countries they were all, as they are ſtill, Arbitrary and Deſpotick; and ſuch ſome of theirs proved to their Coſt: God therefore does not
+<pb n="3" facs="tcp:59445:3"/>
+here reach them out a benefit, <hi>Hoſ.</hi> 13. 11. but as it were hurls a King to them in his wrath.<note place="margin">
+                  <hi>Hoſ.</hi> 13. 11.</note>
+            </p>
+            <p>
+               <hi>Saul</hi> himſelf though no doubt, he were a Man of rare Abilities and Virtues for the firſt <hi>quinquennium; See whom the Lord hath choſen, there is none like him,</hi> &amp;c. yet afterwards the ſweetneſs and mildneſs of his Govern<g ref="char:EOLhyphen"/>ment ſoured into Tyranny.</p>
+            <p>In the Text we have Three things.</p>
+            <p>
+               <hi>The Choice of God.</hi>
+            </p>
+            <p>
+               <hi>The Character of the King.</hi>
+            </p>
+            <p>
+               <hi>The Approbation of the People,</hi> Expreſt in an unanimous acclamation, <hi>God ſave the King.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> God's Choice: In the former Chapter we find <hi>Saul</hi> very Solicitous for his Fathers Aſſes; and being re<g ref="char:EOLhyphen"/>duced to extream deſpair of finding them, bethinks him<g ref="char:EOLhyphen"/>ſelf of a Prophet, that perhaps might tell him ſome ti<g ref="char:EOLhyphen"/>dings of them; a ſpecimen of his ruſtick Education, to repair to a Prophet of God, as common People do to a Wizard, to help them to their Goods again.</p>
+            <p>
+               <hi>Ch.</hi> 9. <hi>V.</hi> 15. <hi>Samuel</hi> is made acquainted with his com<g ref="char:EOLhyphen"/>ing, <hi>v.</hi> 17. and commanded by God to Anoint him; he tells him, this is the Man whom he had Choſen. Here<g ref="char:EOLhyphen"/>upon, after ſome decent Ceremonies of his Entertain<g ref="char:EOLhyphen"/>ment on one ſide, and modeſt Excuſes on the other, he Anoints him to be King.</p>
+            <p>
+               <hi>Secondly,</hi> The Character of the King, <hi>There was none</hi>
+               <note place="margin">Ch. 10. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>like him among the People,</hi> Ch. 10. 10, 11, 24. gives him an ample Teſtimony.</p>
+            <p>Beſides, That he was a goodly Perſon, of a Portly and Majeſtick Meen, that became a King; he was endowed with other Moral Virtues, that might render him a moſt accompliſht Prince.</p>
+            <p n="1">1. Humility and Modeſty; a lowly Mind in a lof<g ref="char:EOLhyphen"/>ty
+<pb n="4" facs="tcp:59445:4"/>
+State; by how much the more rare and diffi<g ref="char:EOLhyphen"/>cult it is, it's the more excellent and praiſe-worthy.</p>
+            <p>The Great ones of the Earth, the lower they are, as the Stars of Heaven, they ſhew the greater.</p>
+            <p>How Modeſtly does he Excuſe, and even Bluſh at the offer of a Crown: <hi>Am not I a Benjamite, the ſmalleſt of the Tribes, and my family the leaſt of that Tribe too? Wherefore then ſpeakeſt thou thus to me?</hi> Ch. 9. 21. A<note place="margin">Ch. 9. V. 21.</note> Kingdom to me, whoſe Birth and Education forbid me any higher hopes then a Countrey Farm?</p>
+            <p>
+               <hi>Ch.</hi> 10. 22. Being taken by Lot, he runs away from a Scepter, and hides himſelf in an heap of Stuff; he flies from a Kingdom, while it pulſues him; and uſed all Arts he could to eſcape a Throne.</p>
+            <p n="2">2. He was endowed with Courage and Magnanimity, a proper Virtue for a King, that's to go in and out before his People, to be their Chieſtain.</p>
+            <p>
+               <hi>Ch.</hi> 11. We have an undeniable inſtance of his Heroick Spirit, when <hi>Nahaſh</hi> the <hi>Ammonite</hi> durſt make ſo diſho<g ref="char:EOLhyphen"/>nourable offers of Peace to <hi>Jabeſh Gilead,</hi> no ways to be<note place="margin">V. 2.</note> obtained but at the price of their Eyes. The Men of <hi>Iſrael,</hi> as if all had been Metamorphoſed into the other Sex, when they ſhould have liſt up their Sword and Fought, they liſt up their Voices and Wept ſo exceſſively,<note place="margin">V. 4.</note> as if they would have ſaved the <hi>Ammonites</hi> the labour of putting them out by their Weeping.</p>
+            <p>
+               <hi>Saul</hi> comes out of the Field, aſtoniſht at ſuch an Effe<g ref="char:EOLhyphen"/>minacy;<note place="margin">V. 5.</note> 
+               <hi>What's the buſineſs?</hi> ſays he, <hi>what means this whuling and crying among the People?</hi>
+            </p>
+            <p>As ſoon as they had told him the Melancholy Story, the Spirit of God came upon <hi>Saul,</hi> a Spirit of Fortitude<note place="margin">V. 6.</note> and Courage, <hi>V.</hi> 6. His Blood boils over in his Veins, he cann't forbear expreſſing the moſt angry Reſentment, and that by the oddeſt and unuſual kind of Emblem, when he
+<pb n="5" facs="tcp:59445:4"/>
+Summoned the People to his Aſſiſtance, by ſending Mammocks of ſlaughtered Oxen about the Countrey, with a plain Comment upon't; <hi>So ſhall be done to thoſe that ſhall deny their aſſiſtance, till we revenge the infa<g ref="char:EOLhyphen"/>my,</hi> V. 7.<note place="margin">Verſe 7.</note>
+            </p>
+            <p>See immediately, his brave Soul was able to animate the whole Body of the <hi>Iſraelites,</hi> People quite dead be<g ref="char:EOLhyphen"/>fore, into Life and Vigour; and <hi>The fear of the Lord came upon them, and they came out with one conſent.</hi>
+               <note place="margin">V. 7.</note>
+            </p>
+            <p n="3">3. He was endowed with Wiſdom; this is ſuch a Prince<g ref="char:EOLhyphen"/>ly accompliſhment, that <hi>Solomon</hi> deſires no more to go in and out before that great People.</p>
+            <p>
+               <hi>Ch.</hi> 11. We have a notable inſtance of his Martial Skill, in Muſtering ſuch an Army ſo ſuddenly and unſu<g ref="char:EOLhyphen"/>ſpected of the <hi>Ammonites,</hi> in aſſaulting their Camp at the Morning watch, which put them into confuſion; and the day dawning immediately, muſt help them to proſe<g ref="char:EOLhyphen"/>cute the Victory; as alſo in Marſhalling the Army into Three Bands, ſo hemming them in, and encompaſſing them on every ſide, that none of them eſcaped.<note place="margin">V. 11.</note>
+            </p>
+            <p n="4">4. He was endowed with Mercy and Clemency, this is the Glory of our Heavenly King, whoſe <hi>Mercy is over all his Works.</hi>
+            </p>
+            <p>
+               <hi>Ch.</hi> 10. 27. He gives us ſuch an inſtance of his Cle<g ref="char:EOLhyphen"/>mency, as is not eaſie to be parallel'd.</p>
+            <p>There were Men of <hi>Belial</hi> in thoſe days too, that mutte<g ref="char:EOLhyphen"/>red and murmured at the God of Heaven, that he had made no better choice for them; <hi>is this the man that muſt ſave us?</hi> among ſo many Men of Honour and Experience, muſt ſuch a Man as he be put upon us for our General? Yet he was none of the ſcum and dregs of the People nei<g ref="char:EOLhyphen"/>ther, <hi>for his Father was a man of ſubſtance,</hi> as the Original<note place="margin">Ch. 9. 1.</note> hath it.</p>
+            <pb n="6" facs="tcp:59445:5"/>
+            <p>Ah pettiſh and fretful People, whom the Almighty God could not pleaſe in his Choice! but now in a ſcorn<g ref="char:EOLhyphen"/>ful flere, they toſs up their Noſes at him as ſome do at a <hi>Dutch</hi> man: What follows? <hi>But he held his peace,</hi> paſ<g ref="char:EOLhyphen"/>ſes by the affront with as much diſdain, as 'twas offered.</p>
+            <p>This ſpoke him a Perſon of ſuch temper and modera<g ref="char:EOLhyphen"/>tion, as made him fit to command others, who knew ſo well how to govern himſelf.</p>
+            <p>Again, When ſome in a tranſport of Zeal for their Cap<g ref="char:EOLhyphen"/>tain, upon the ſignal Victory he had gained over the <hi>Am<g ref="char:EOLhyphen"/>monites,</hi> cried out, <hi>Who is he that ſaid Saul ſhall not rule over us? bring out the man that we may put him to death.</hi>
+            </p>
+            <p>
+               <hi>No,</hi> ſays <hi>Saul, there ſhall not a man be put to death to day, for this day hath the Lord wrought Salvation.</hi> Thoſe ſcurrilous detractors he ſpares them being <hi>Iſraelites,</hi> as an unreaſonable Sacrifice upon ſuch a day of <hi>Jubi<g ref="char:EOLhyphen"/>lee</hi> for <hi>Iſraels</hi> Salvation; he thought it more glorious then to kill his Enemies, thus to Conquer their Enmity.</p>
+            <p n="5">5. <hi>In fine, He</hi> was furniſh't with all thoſe Virtues that were to be deſired in a Prince, according to the Propheſie,<note place="margin">Ch. 10. V. 6.</note> 
+               <hi>The ſpirit of the Lord ſhall come upon thee,</hi> and thou ſhalt be turned into another Man, from a Countrey Swain, into a Courtier and Polititian; from a Muleteer to a Lord General.</p>
+            <p n="3">3. <hi>Iſraels</hi> Approbation, expreſt in an unanimous Ac<g ref="char:EOLhyphen"/>clamation; <hi>God ſave the King.</hi>
+            </p>
+            <p>And muſt I have the Honour to be inſtead of a <hi>Samuel,</hi> to preſent another King to you this day? a King whom the Lord hath Choſen; a King that hath none like him among the People; I doubt not but your thoughts have prevented me, it being ſo eaſie and obvious to find him out; it is King <hi>William,</hi> higher by the Head and Shoul<g ref="char:EOLhyphen"/>ders then <hi>Saul</hi> himſelf, in all Princely Virtues; a King whom I am aſſured the Lord hath Choſen; a King who
+<pb n="7" facs="tcp:59445:5"/>
+hath none to compare to him among the People, and therefore deſerves the ſame approbation and acclamation from you, <hi>God ſave the King.</hi>
+            </p>
+            <p n="1">1. I ſhall make it evident, he hath been called to Govern us by the voice of God, that God hath choſen him.</p>
+            <p>I know there have been a ſort of Men that have preſt this <hi>jure divino</hi> Doctrine to very untoward ſervi<g ref="char:EOLhyphen"/>ces, having never had right notions of this principle in their Heads; they have held wretched and dangerous inferences from it, the faſter with their Teeth: when, if rightly underſtod it means no miſcheif unto Churches and States, but is rather a ſtay and ſupport to them.</p>
+            <p>That his preſent Majeſty was inveſted with the Sove<g ref="char:EOLhyphen"/>raignty over us, by the unanimous conſent of Peers and People, I think none will deny.</p>
+            <p>So that when I have made it appear, that the con<g ref="char:EOLhyphen"/>ſent of the People is God's Voice, and ordinary call to the political Authorities that are ſet up in the World. The Concluſion will be eaſie from thoſe Premiſes, that his preſent Majeſty hath been choſen of God, and hath a right to the Crown he wears.</p>
+            <p>I own there is an immediate Call, ſuch as the call of <hi>Saul, David, Jehu;</hi> ſome Prophet hath been ſometimes directed, by an immediate voice from God, go and anoint me <hi>Saul, David, Jehu,</hi> this is that choice or call that is not at all pretended to.</p>
+            <p>Again, There is a Call that is ordinary and immedi<g ref="char:EOLhyphen"/>ate: I know no other, nor any Body elſe, I ſuppoſe, but the conſent of the People.</p>
+            <p>'Tis no hard matter to find inſtances of a Divine Authority, conveyed by the conſent of Men: Marital Authority is Divine, yet fixt upon the Perſon by the Womans free choice; ſo the Authority of Maſters over Ser<g ref="char:EOLhyphen"/>vants,
+<pb n="8" facs="tcp:59445:6"/>
+yet the Perſon is determined by Compact and Agree<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="1">1. I ſhall lay down ſome reaſons to prove, that this is now God's ordinary way of ſetting up political Go<g ref="char:EOLhyphen"/>vernments in the World.</p>
+            <p n="2">2. I ſhall prove, That political Authority over us can come no other way into the World, but by ſuch a con<g ref="char:EOLhyphen"/>ſent.</p>
+            <p n="3">3. I ſhall give you ſome inſtances both Profane and Sacred of Governments in the World, that God has evi<g ref="char:EOLhyphen"/>dently thus ſet up.</p>
+            <p n="1">1. I ſhall lay down my reaſons, <hi>&amp;c.</hi>
+            </p>
+            <p n="1">1. Then, Doth not right reaſon, which is a dictate of the Law of Nature, which is certainly the voice of God, direct Men into Society.</p>
+            <p>It had almoſt like to have gone for a deſinition of Man animal; <hi>ſociabile</hi> and the Sacred Text tells us, 'tis not good for Man to be alone; and muſt not the ſame voice of God neceſſarily direct them to put them<g ref="char:EOLhyphen"/>ſelves<note place="margin">
+                  <hi>Vid. Puf<g ref="char:EOLhyphen"/>fend.</hi> p. 898. 1. 6. f. 3. Sect. 10.</note> under ſome political Government or other, for their preſervation.</p>
+            <p>Sure the Reverend and Judicious <hi>Hooker</hi> conceived this Doctrine, that Government aroſe from the conſent of the People, to be almoſt ſelf-evident and an undoubted Prin<g ref="char:EOLhyphen"/>ciple, and therefore takes the liberty to aſſert it very con<g ref="char:EOLhyphen"/>fidently, without much proving of it: He tells you, it is impoſſible it ſhould be otherwiſe; and if afterwards, any worthy Men ſeem to favour the contrary Opinion, ſuch as the deſervedly Celebrated <hi>Saunderſon</hi> and <hi>Vſher,</hi> it was when they ſaw a King ſo courſely handled by his People, and the juſt Prerogative forced to vail and make court to every Buff-coat Mechanick.</p>
+            <p>In the heat of oppoſition they might ſtrain the point too far, and to ſet the ſtick right, bend it ſo much on the other ſide.</p>
+            <pb n="9" facs="tcp:59445:6"/>
+            <p>Had they lived in our days, I doubt not, but theſe good Men would either have renounc't their Doctrine (if yet it were their Doctrine) or explain'd it to Mr. <hi>Hooker</hi>'s ſenſe.</p>
+            <p n="2">2. Methinks again it's very natural to conceive, when People began to multiply into ſuch a number, as to over<g ref="char:EOLhyphen"/>ſtock that portion of that vaſt Common of the World, their firſt Plantation, they ſhould, as Bees ſtreightned for room, ſwarm and look for a new Hive.</p>
+            <p>Now as ſoon as they begin to ſettle there, I pray what muſt be done by them, to keep them from the diſorder of the ſtate of Nature, where every one is Judge and King, equal and independent upon one another, as to any political Subjection they could owe to one another?</p>
+            <p>Muſt they ſtand gazing to Heaven for a Governour, to be ſent from thence to them, with all his imple<g ref="char:EOLhyphen"/>ments of Arbitrarineſs, even the Yoak and Pack-ſaddle for the working and loading of the Beaſt; as alſo the Curb and the Barnacle, to tame him with if he kick?</p>
+            <p>Or, Muſt they be like thoſe Men that ſprung from <hi>Cadmus</hi>'s Teeth, fall a killing one another, or fall to cutting of Throats for the Government?</p>
+            <p>Would not Right reaſon which is the voice of God, as before, direct them to place a ſupream Authority up<g ref="char:EOLhyphen"/>on ſome or other of themſelves, to be an umpire of their Controverſies, and keep them in peace, according to ſuch meaſures and limitations, as were thought fitteſt for the attaining the ends of Government, the Preſervati<g ref="char:EOLhyphen"/>on of the People.</p>
+            <p>Even in abſolute Monarchies, where People put the greateſt truſt in Kings, they can yield up no Power but to thoſe great Ends; and if they have unwarily contracted to other purpoſes, it is <hi>ipſo facto,</hi> Null; being contra<g ref="char:EOLhyphen"/>ry to the obligation of a ſuperiour Law, the Law of
+<pb n="10" facs="tcp:59445:7"/>
+Nature which is the Law of God, whoſe chief end is the preſervation of the People.</p>
+            <p>And thus it will be plain, without vexing the Scripture with ſtrained interpretations, how Government can be an Ordinance of God, according to St. <hi>Paul,</hi> and yet an hu<g ref="char:EOLhyphen"/>man<note place="margin">
+                  <hi>Rom.</hi> 13. 2.</note> Creature according to St. <hi>Peter.</hi>
+            </p>
+            <p>
+               <note place="margin">1 <hi>Pet.</hi> 2. 13.</note>Becauſe God makes uſe of this human means, the con<g ref="char:EOLhyphen"/>ſent of the People for ſetting up Governments in the World; ſo that the Supream Power in Common-wealths comes, though by Men, yet not from Men, but from God's Command, expreſt by the Law of Nature, or right Reaſon to promote the good and ſafety of Mankind.</p>
+            <p>Thus alſo, all the Objections againſt the incapacity of the People, to confer the power of Life and Death not being veſted with ſuch an Authority themſelves are eaſily anſwered, this Power of Life and Death being from God, though by the People, as much as the Government is: For the ſame Law of Nature, which (as I have ſaid) is the Law of God, that directs Men to put the Govern<g ref="char:EOLhyphen"/>ment, muſt alſo direct them to put ſuch a Power into the Rulers hands, as might enable him to attain the ends of Government; which he could not do, if he had not Pow<g ref="char:EOLhyphen"/>er over the lives of his Subjects in ſome Caſes.</p>
+            <p n="2">2. I ſhall prove to you, that 'tis impoſſible that politi<g ref="char:EOLhyphen"/>cal Government ſhould ordinarily ariſe from any other ſource but this.</p>
+            <p>There are but theſe 4 or 5 ways that offer at any plau<g ref="char:EOLhyphen"/>ſible competition; 1. Paternity; 2. The divine Dona<g ref="char:EOLhyphen"/>tion to the Heir of <hi>Adam;</hi> 3. Providence; 4. Conqueſt; 5. Preſcription: But I ſhall prove none of theſe Five can be the Foundations of political Authority.</p>
+            <p n="1">1. Not Paternity; for 1. That's no Obedience to a po<g ref="char:EOLhyphen"/>litical Authority, (unleſs by way of Analogy) that's en<g ref="char:EOLhyphen"/>joyned in the 5th Command; if it were ſo, I ſee not but
+<pb n="11" facs="tcp:59445:7"/>
+ſuch an Authority might derive from maternity as well as paternity, the ſame honour being to be given to the Mother by that Command, that's to be given to the Fa<g ref="char:EOLhyphen"/>ther, unleſs we have a Salique Law againſt the Fifth Com<g ref="char:EOLhyphen"/>mandment.</p>
+            <p n="2">2. Paternal Authority is but of a ſhort Duration, be<g ref="char:EOLhyphen"/>ing only neceſſary to Diſcipline, and govern the weak<g ref="char:EOLhyphen"/>neſs of the Child in <hi>Non-age,</hi> till he be arrived at the uſe of his Reaſon to guide himſelf, though a filial Reverence and Honour ought to continue indiſpenſably till Death.</p>
+            <p n="3">3. Political and paternal Authority are vaſtly diffe<g ref="char:EOLhyphen"/>rent; for the Son may be a political Head to his Fa<g ref="char:EOLhyphen"/>ther, while his Father hath a Paternal Authority over him, as is evident in the inſtance of my Lord <hi>Darnly</hi> and King <hi>James,</hi> as alſo in <hi>Kiſh</hi> and <hi>Saul.</hi>
+            </p>
+            <p n="4">4. If political Authority aroſe from Paternity, it could extend no ſurther then Paternity, a relation founded upon Paternity cannot be transferred, but you muſt transfer its foundation, the ſame Paternity with it, and ſo your Governour muſt be your natural Father as well as your King.</p>
+            <p n="5">5. If political Authority aroſe from Paternity, every Father would be a King, and ſo we ſhould have Kings enough: Every Town would not only be an Heptarchy but an <hi>Hecatontarchy,</hi> if there were ſo many Families there.</p>
+            <p>I won't deny, but Fathers might be the firſt Monarchs of the World, when Children were Men, and ſo out of the ſtate of pupillage; they were like enough to ſubmit to their Fathers as their Law-makers and Governours; the Father muſt ſure be fitteſt to be truſted with ſuch a charge, Paternal affection muſt engage him to have a tender regard to the Properties of his Children: He al<g ref="char:EOLhyphen"/>ſo may be ſuppoſed to be endowed with greater Wiſdom,
+<pb n="12" facs="tcp:59445:8"/>
+and to be furniſh't with a larger Eſtate, that might fit him for the more chargeable parts of Government. Be<g ref="char:EOLhyphen"/>ſides the cuſtom of commanding them when Children, made it an eaſie tranſition, from Paternal to Political Au<g ref="char:EOLhyphen"/>thority, and therefore right reaſon might direct the Chil<g ref="char:EOLhyphen"/>dren to ſuch a Choice; and from thence Paternal Au<g ref="char:EOLhyphen"/>thority paſſes into Political; and ſo, though Fathers might be Kings, yet they were not ſo as Fathers.</p>
+            <p n="2">2. Political Authority cannot ariſe from the Divine Donation to the Heir of <hi>Adam.</hi>
+            </p>
+            <p n="1">1. For then we ſhould be left in great perplexity, who that Heir ſhould be, whether Daughters or Brothers, or younger Sons Sons ſhould wear the Crown in caſe of Com<g ref="char:EOLhyphen"/>petition with 100 other Difficulties we ſhould be en<g ref="char:EOLhyphen"/>tangled in, that are not determined in Scripture.</p>
+            <p>Beſides, We could certainly have but one King in the World: The Kings of the Earth, I believe, will give them but little thanks for this Doctrine; for it diſmounts them all but one, and ſends them to Plow; nay, that one, I fear, will be in danger too, who can derive his Pedigree perhaps no more from <hi>Adam</hi> then a <hi>Cromwel,</hi> or a <hi>Maſſaniello:</hi> Beſides, if it were our good Fortune to find out this Heir, all the Kings of the Earth were bound to caſt their Crowns at his Feet, if he were a Page, or a Link-Boy.</p>
+            <p n="3">3. Political Authority cannot ariſe from Providence; for Providence, though it orders every thing, yet it ordi<g ref="char:EOLhyphen"/>narily Authorizes nothing; it's rather the diſpoſer of things and actions, then their Rule and Meaſure.</p>
+            <p n="4">4. Political Authority cannot ariſe from Conqueſt; for beſides that, this Principle hath met with a warm Confutation. <hi>Slavery</hi> is ſo contrary to the <hi>genius</hi> of an <hi>Engliſh</hi> Man, that when I have heard ſome Men eagerly defend, that Conqueſt is the Foundation of our Govern<g ref="char:EOLhyphen"/>ment,
+<pb n="13" facs="tcp:59445:8"/>
+I have rather thought it an Exerciſe of Wit; as was his that wrote a <hi>Panegyrick</hi> upon <hi>Nero,</hi> then in good earneſt.</p>
+            <p>Good God! that Men ſhould ſweat and toil ſo, to ham<g ref="char:EOLhyphen"/>mer out Fetters for themſelves, and be ſo zealous to propa<g ref="char:EOLhyphen"/>gate a Doctrine of the Divine Right of Slavery. Nor <hi>5thly,</hi> Can Preſcription it ſelf give title to an injurious Conque<g ref="char:EOLhyphen"/>rour, as it is Preſcription, a long continuance in Sin be<g ref="char:EOLhyphen"/>ing its greateſt aggravation; but either as Preſcription is Authorized by the Cuſtoms and Conſtitutions of Nations, which to be ſure implies Conſent, or as ſuch an Uninter<g ref="char:EOLhyphen"/>rupted and Undiſturbed continuance of the Power, infers the quiet and voluntary Submiſſion of the People to it. A Man would be ready to believe, that thoſe that go about to lay ſuch Foundations of Government as are be<g ref="char:EOLhyphen"/>fore-mentioned, had a ſpight againſt it, and deſigned the fall of it, while they ſet up ſuch weak and rotten Prin<g ref="char:EOLhyphen"/>ciples to ſupport it.</p>
+            <p>And thus having ſhewn how its morally impoſſible, that Government ſhould ordinarily come into the World any other way then this (whatever hath been offered by any I have conſidered) one would think this might ſave me any farther labour; yet to ſatisfie the unreaſo<g ref="char:EOLhyphen"/>nable importunities of ſome, I ſhall ſhew you ſome In<g ref="char:EOLhyphen"/>ſtances both Profane and Sacred, of ſeveral Governments in the World, that God hath ſet up by the Peoples conſent.</p>
+            <p n="1">1. Profane. The Common-wealth of <hi>Venice</hi> had its Riſe from hence, when they were broke in pieces by the Incurſions of the <hi>Hunns;</hi> they gather the broken Splin<g ref="char:EOLhyphen"/>ters together; and preſently, according to the dictates of the Law of Nature, rig themſelves up into a new Com<g ref="char:EOLhyphen"/>mon-wealth, in an inacceſſible Neſt of Iſlands, caſting themſelves under that Government they now flouriſh under.</p>
+            <pb n="14" facs="tcp:59445:9"/>
+            <p n="2">2. Great <hi>Rome</hi> was beholding to this Beginning for her Government, while People flockt from every Quar<g ref="char:EOLhyphen"/>ter unto <hi>Romulus,</hi> a bold enterpriſing Captain, willing to ſhare in the ſucceſs of his Adventures; People that<note place="margin">
+                  <hi>Dionys</hi> Ha<g ref="char:EOLhyphen"/>licar <hi>l.</hi> 2. ſub initio <hi>Juſtin. l.</hi> 3.</note> owed him no Obedience, till they voluntarily put them<g ref="char:EOLhyphen"/>ſelves under his Authority.</p>
+            <p n="3">3. I would know how the <hi>Parthenii</hi> fell into Govern<g ref="char:EOLhyphen"/>ment at <hi>Tarentum?</hi> they were the baſe born off-ſpring of the <hi>Spartan</hi> Dames, begotten in abſence of their Huſ<g ref="char:EOLhyphen"/>bands in a tedious War; whom when they returned, they packt away to ſeek their Fortunes ſome where elſe. To be ſure, not one of them had Authority over another by the Law of Nature, being all illegitimate; how, I ſay, did they fall into Government there, but by conſent?</p>
+            <p>Unleſs we ſhould conceive, that after a long time dan<g ref="char:EOLhyphen"/>cing upon the wide Ocean, as <hi>Epicurus</hi> his <hi>Atomes</hi> in an in<g ref="char:EOLhyphen"/>finite ſpace, by good Fortune they Rendezvouzed upon the Coaſt of <hi>Italy,</hi> and by mere chance, and without any Deſign or Contrivance at all, they did <hi>coaleſce</hi> into a Body Politick; and at adventure jumble themſelves into a Government, that once gave ſuch a trouble to the <hi>Roman</hi> Greatneſs.</p>
+            <p n="4">4. The <hi>Carthaginian</hi> State owes her Original from hence: The <hi>Phenicians</hi> flying from the rage of the Eaſtern Monarchs, roaming up and down to find a calmer Cli<g ref="char:EOLhyphen"/>mate, happened upon the Coaſt of <hi>Africa,</hi> where they, by Conſent, erected a very formidable Common-wealth, that once ſhook the Capitol: We read not that they had either King or Senate with them, but what they made.</p>
+            <p n="5">5. And why may it not be ſuppoſed, that the <hi>Saxons</hi> being a Free People, having Conquered this Iſland, ſhould by their own free Conſent ſet over themſelves a King? I don't remember, that ever there was a ſettled King of the <hi>Saxons,</hi> or that he came over into this Iſland, much
+<pb n="15" facs="tcp:59445:9"/>
+leſs that Seven did ſo: So that if there were Seven Kings here, they muſt be made ſo by the People upon mutual Compacts and Agreements. Thoſe Seven Kings being antecedently Free from any Obligation to take ſuch a charge upon them, how came they to be obliged to Mi<g ref="char:EOLhyphen"/>niſter Juſtice, and defend the People, but by their vo<g ref="char:EOLhyphen"/>luntary conſent? In like manner, How came the Peo<g ref="char:EOLhyphen"/>ple, who were Free before, from any Obligation to obey them as their Kings, to be obliged to it but by their own Conſent? and why not according to ſuch meaſures as theſe?</p>
+            <p>The King to Govern by known Laws, none of which to be made, but by the Conſent and Concurrence of the People; either by Themſelves or Repreſentatives, that they ſhould all be called his Laws, run in his Name; and all ſhould be bound to obey him in obeying them when they are thus Eſtabliſh't, <hi>&amp;c.</hi>
+            </p>
+            <p>Why may we not ſuppoſe this to be the Original of our Government? I am ſure, no Hiſtory can give us the birth of theſe Conſtitutions, and therefore they muſt be owned to be from the beginning.</p>
+            <p>Neither doth this make every Monarchy Elective; for the People might Elect a Monarchy to be Hereditary; and ſo, though the Monarchy be Elected, it ought not to be called an Elective Monarchy.</p>
+            <p>If it ſhould be further objected, that Conqueſt and Uſur<g ref="char:EOLhyphen"/>pation exclude the conſent of the People, the Reply is obvious; God in the ordinary courſe of his Providence, confers the Authority in thoſe Caſes, either by a previous conſent of the People, or their ſubſequent ſubmiſſion.</p>
+            <p>Neither can ſuch a conſent be counted the effect of force, though a conſequent of it; but the <hi>genuine</hi> product of right Reaſon, which conſtrains the People, ſince they muſt be preſerved, and that cannot be without a Govern<g ref="char:EOLhyphen"/>ment,
+<pb n="16" facs="tcp:59445:10"/>
+to ſet up ſuch an one as they can, when they can<g ref="char:EOLhyphen"/>not ſuch an one as they would, even that of the Conque<g ref="char:EOLhyphen"/>rour himſelf, while he aſſures them, he will Govern them according to the Laws of the Conſtitution.</p>
+            <p n="2">2. My next inſtances are from Scripture.</p>
+            <p n="1">1. The People of the Land took <hi>Jehoaz</hi> and made him<note place="margin">2 <hi>Kings</hi> 23. 30.</note> King, immediately after <hi>Joſiah</hi>'s Death, though he was not the eldeſt neither, as is evident.</p>
+            <p n="2">2. <hi>Zimri</hi> indeed ſets himſelf up to be King, which though it was according to the word of the Lord againſt <hi>Baaſha,</hi> yet not being done in God's own way, by the<note place="margin">1 <hi>Kings</hi> 16. 1. 9, 10. <hi>ſee</hi> v. 20. <hi>ſee</hi> 16.</note> conſent of the People of <hi>Iſrael,</hi> is called Treaſon, and all <hi>Iſrael</hi> regularly dethrone the Traitor, and make <hi>Omri</hi> King.</p>
+            <p>Nay, God Almighty ſeems to be ſo tender of infring<g ref="char:EOLhyphen"/>ing this natural Right of the People, though he might ſurely have impoſed a Government upon them, <hi>pro imperio;</hi> yet where he himſelf had Anointed a Perſon to be a King, he is pleaſed not to ſuffer him to execute that Authority over the People without their conſent: He will not have the People acted like <hi>Machines,</hi> or ridden as brute Beaſts againſt their Wills; but allows them the natural Liberty of Men, to be Governed by their own free Choice; and owns their concurrence for the Eſtabliſhing of ſuch their King: For inſtance.</p>
+            <p n="1">1. <hi>David,</hi> Tho' he were Anointed of God, yet he ne<g ref="char:EOLhyphen"/>ver acted as King, after <hi>Saul</hi>'s Death, till he was fully Eſtabliſhed in his Throne by the mediate call of God, the conſent of the People.</p>
+            <p>
+               <note place="margin">2 <hi>Sam.</hi> 2. 4.</note>1. Then the Men of <hi>Judah</hi> make him King at <hi>Hebron.</hi>
+            </p>
+            <p>Still the Houſe of <hi>Iſrael</hi> ſtand up zealouſly for <hi>Iſhbo<g ref="char:EOLhyphen"/>ſheth,</hi> the Son of <hi>Saul</hi> their Lord and Maſter; neither are they treated by the Houſe of <hi>David</hi> as Rebels, in that Seven years War between thoſe two Competitors,
+<pb n="17" facs="tcp:59445:10"/>
+and the reaſon was, <hi>David</hi> was never Eſtabliſhed King in <hi>Iſrael</hi> all that time, by the mediate call of God, the conſent of <hi>Iſrael</hi> as <hi>Iſhboſheth</hi> was; and therefore when <hi>Iſhboſheth</hi> was Treacherouſly ſlain by his Two Captains, the Sons of <hi>Rimmon,</hi> and they officiouſly bring his Head to <hi>David:</hi> He is ſo far from rewarding them, for Exe<g ref="char:EOLhyphen"/>cuting<note place="margin">Ch. 4. v. 2.</note> Juſtice upon a Traitor, that he gives <hi>Iſhboſheth</hi> the Character of a Righteous Perſon; which I ſee not<note place="margin">Verſe 11.</note> how he could have done, if <hi>David</hi> had been at that time King of <hi>Iſrael,</hi> and dealt with the Aſſaſſinates, juſt as he had before done with the <hi>Amalekite</hi> that ſlew <hi>Saul, Iſhbo<g ref="char:EOLhyphen"/>ſheth</hi>'s<note place="margin">Verſe 12.</note> Father; and yet there wanted nothing to have made <hi>David</hi> a King, and <hi>Iſhboſheth</hi> a Rebel, but the Con<g ref="char:EOLhyphen"/>ſent of the People of <hi>Iſrael,</hi> which was preſently given unto <hi>David,</hi> upon the Death of <hi>Iſhboſheth:</hi> After he had made a League with them, that is, taking a Coronation<note place="margin">Ch. 5. 3.</note> Oath, or promiſed them a temperate Reign, the People of <hi>Iſrael</hi> alſo made him King.</p>
+            <p>
+               <hi>Saul</hi> was immediately called of God to the Throne, but yet I don't ſee him over-forward to make claim to the Go<g ref="char:EOLhyphen"/>vernment upon that call.</p>
+            <p>We find him coming after that, not from his Pallace, or the Council-Table, attended with his Guard <hi>de Corps,</hi> his<note place="margin">1 <hi>Sam.</hi> 11. 6.</note> Band of Penſioners; but as a Shepherd or Herdſman, leading of his Sheep, or driving his Oxen to Paſture, ſtay<g ref="char:EOLhyphen"/>ing till he ſhould have an opportunity put into his Hands, of approving himſelf a valiant Hero, <hi>fit to go in and out before the People,</hi> which the <hi>Ammonites</hi> did immediately by that bold affront they had provok'd him with; which, when he had ſo gloriouſly Revenged, preſently there was ſuperadded to the immediate, the mediate Call of God, the Conſent of the People: They went to <hi>Gilgal,</hi> and<note place="margin">1 <hi>Sam.</hi> 11. ult.</note> there they made <hi>Saul</hi> King.</p>
+            <pb n="18" facs="tcp:59445:11"/>
+            <p>
+               <note place="margin">1 <hi>Kings</hi> 11. 29, 30.</note>
+               <hi>Jeroboam</hi> is another inſtance: 'Tis true, there was a Propheſie that <hi>Jeroboam</hi> ſhould be King over Ten Tribes, but this did not make him King upon <hi>Solomon</hi>'s death, and thefore he was too wary to jump into the Throne, upon the right that Propheſie gave him; but waits for the ordinaiy Call of God, the Conſent of the People; having reaſon to conclude, that God that had promiſed, would ſo diſpoſe of matters as to ſerve his Providence, for the bringing it about in his good time. Now obſerve, by what a Chain of Providence he at laſt comes to obtain that Call, the Peoples Conſent.</p>
+            <p>All <hi>Iſrael</hi> go to <hi>Sichem</hi> to make <hi>Rehoboam</hi> King, all this while here's not the leaſt thought of <hi>Jeroboam;</hi> nay, <hi>Jero<g ref="char:EOLhyphen"/>boam</hi> goes along with them, to pay his reſpects to the<note place="margin">1 <hi>Kings</hi> 12. 1, 3.</note> Heir apparent; there they tranſact with him for the ad<g ref="char:EOLhyphen"/>miniſtring<note place="margin">Verſe 15.</note> the Government Juſtly and Righteouſly.</p>
+            <p>Well, <hi>Rehoboam</hi> anſwers the People very huſſingly, he bids them depart and be gone, commanding them, to<g ref="char:EOLhyphen"/>gether with <hi>Jeroboam</hi> to wait his pleaſure Three days hence.</p>
+            <p>
+               <hi>Jeroboam</hi> with the People, obediently and peaceably depart; he does not as yet ſnap at the Crown, but<note place="margin">Verſe 12.</note> waits till Providence, by fair and regular ways, ſet it up<g ref="char:EOLhyphen"/>on his Head.</p>
+            <p>
+               <hi>Jeroboam</hi> and the People come again the day appointed, when he and the People receive but a very churliſh anſwer from <hi>Rehoboam;</hi> What, meddle with his Prerogative, offer to reſtrain his Sacred and Irreſiſtible Tyranny? ſuch Vaſſals and Slaves to be ſo bold, to preſent their Adreſſes and Petitions to the Son of <hi>Solomon?</hi> He threa<g ref="char:EOLhyphen"/>tens them the higher; tells them plainly, he would Rule them as he pleaſed, meaſure all right, as one of our Kings did once the Yard-wand, by the length of his own Arm; he would gall them with his Yoak, and flea them with<note place="margin">V. 13. 14.</note> his Scorpions.</p>
+            <pb n="19" facs="tcp:59445:11"/>
+            <p>This was infinitely more ingenuous, then to flamm the People off with fair Promiſes, Oaths, and Proteſtations of a juſt and temperate Government, which were never intended but as <hi>Sirens</hi> Songs, to draw them ſecurely up<g ref="char:EOLhyphen"/>on the Rocks of danger.</p>
+            <p>Immediately the People think themſelves fairly diſ<g ref="char:EOLhyphen"/>charged<note place="margin">Verſe 15.</note> of their Allegiance, and ſet up <hi>Jeroboam</hi> King.</p>
+            <p>This act of <hi>Iſrael</hi> ſeems to be approved of God, he owns it as from himſelf, and charges a mighty Army raiſed for the reduction of <hi>Jeroboam</hi> to his Obedience, to disband again, without doing him any hurt.</p>
+            <p>So that <hi>Huſhai</hi> ſaid very well, whom the Lord, and<note place="margin">1 <hi>Kings</hi> 12. 24.</note> the People, and all the Men of <hi>Iſrael</hi> ſhall chuſe, his<note place="margin">2 <hi>Sam.</hi> 16. 18.</note> will I be.</p>
+            <p>Agreeable to that of <hi>Moſes,</hi> thou ſhalt ſet him to be<note place="margin">
+                  <hi>Deut.</hi> 77. 14, 15.</note> King over thee, whom the Lord ſhall chuſe, which plain<g ref="char:EOLhyphen"/>ly ſhews, that notwithſtanding God's immediate Call, and he hath choſen a Perſon to be King; he yet requires a concurrence of that Call that is ordinary, the Conſent of the People, for ſetting him in the Throne; thou ſhalt ſet up him whom the Lord ſhall chuſe.</p>
+            <p>But we are told by ſome, that this Hypotheſis would make Government precarious, to let the People know they are ſo neceſſary for the modelling of it; 'twill make them reſty and wanton with their Rulers, if they diſpleaſe them never ſo little, that 'tis another <hi>Faux</hi> with his Lanthorn, ready to give fire to a train of Powder, and blow up all.</p>
+            <p>But I hope this fright will ſoon be over, if we aſſure them, we never yet ſuppoſed the People that gave, could reſume the Government, though if a Governour abandon his Government, by taking up another inconſiſtent with it; that is, if he takes up a Government by Will, and ſo quits the Government by Law, which by the way is
+<pb n="20" facs="tcp:59445:12"/>
+the Government of our Conſtitution; I conceive the Peo<g ref="char:EOLhyphen"/>ple are not only at liberty, but under the obligation of the Law of Nature, to provide for themſelves.</p>
+            <p>To me its one of the greateſt inducements to believe the truth of this Doctrine, that political Authority is de<g ref="char:EOLhyphen"/>rived from God by the Conſent of People; that it is certainly the only means to preſerve Government, and keep it ſteddy without tottering or ſhaking.</p>
+            <p>Had that Doctrine been inculcated upon the minds of Princes, that they are originally from the People, and therefore are to Rule according to ſuch meaſures as they had mutually agreed upon, I am perſwaded our Ark might have been ſafe enough, for ever falling into the <hi>Phi<g ref="char:EOLhyphen"/>liſtins</hi> hands, as of late it did.</p>
+            <p>Had Princes been taught, that a Soveraign Power above Law, hath nothing to do in <hi>Britain;</hi> and that ſuch as govern by Will, and not by Law, according to ſuch ſtated Rules, as are agreed upon by the People and Themſelves ceaſe to be Kings, as King <hi>James</hi> ſaid, no Man in his Wits would have ſteered his Courſe directly upon a Rock, he had been forewarned of; or have been willing to have abandoned a Crown, which might have been kept upon terms ſo eaſie, honeſt, and honourable.</p>
+            <p>If this had been taught them inſtead of an unaccoun<g ref="char:EOLhyphen"/>table <hi>jus-divinum</hi> that no Man could reach, that ſet them upon a Pinacle, too apt to make their Brains turn round, we might perhaps have ſaved the Life of the beſt of Kings, and prevented the Reign of the worſt, ever ſince the con<g ref="char:EOLhyphen"/>trary Doctrine hath been taught: I tremble to think what a Tragical ſcuffle and ſcramble here hath been for Fifty years, between Property and Prerogative.</p>
+            <p>Sure enough old <hi>Sinon</hi> hath had an Hand in this; I mean, our Friends of the Church of <hi>Rome,</hi> to promote ſuch a Principle that might be a fatal Engine to break
+<pb n="21" facs="tcp:59445:12"/>
+us to peices, and blow up our Monarchs, as they rejoyced to be ſure when it was done.</p>
+            <p>I am ſure the Principle which I have taught hath for<g ref="char:EOLhyphen"/>merly been the received one of their Divines however to ſerve the preſent turn, they ſo zealouſly and induſtri<g ref="char:EOLhyphen"/>ouſly promote the contrary; for theſe Gentlemen uſe to ſhift Principles as we do Tools, according as they have uſe of them.</p>
+            <p>Methinks I ſee the <hi>Philiſtins</hi> ſmile to obſerve how we have hugged and dandled that <hi>Delilah,</hi> a Daughter of theirs, that ſhould one day have put out our Eyes, at once made us Executioners of their Malice upon our ſelves, and objects of their ſcorn: I am afraid, while they had cryed us up, and extoll'd us as Loyal, they would have laughed at us as Fools.</p>
+            <p>But I muſt pur off from this; I hope I have ſufficient<g ref="char:EOLhyphen"/>ly proved God's ordinary way of chuſing Rulers, is by the conſent of the People; and by conſequence, that his preſent Majeſty being thus ſet up, is choſen of God, and therefore hath an undoubted Right to the Crown he wears. There are a ſort of Men cry out upon it, as a Pragmati<g ref="char:EOLhyphen"/>call ſaucineſs to meddle with the Grounds of Obedience unto Government; as if it were meritorious to obey blind<g ref="char:EOLhyphen"/>fold. Indeed it were a great Point obtained, if while ſo many ſcruple at, and ſo many boldly diſpute againſt the Right of his preſent Majeſty, and aſſert, he hath no Right at all; if they could ſet ſuch Limits and Bounds about this wretched Principle, as were once ſet about the Holy Mount, that no Body might dare to come near or touch it: If they could make it a kind of Sacriledge, to pry never ſo little into that Ark, or enquire into the reaſons of our Obedience to it, for fear the unreaſonableneſs of their <hi>non</hi>-obedience ſhould be diſcovered. But what, muſt an implicit Obedience be impoſed upon us, inſtead of an
+<pb n="22" facs="tcp:59445:13"/>
+implicit Faith? and would they have us obey like a com<g ref="char:EOLhyphen"/>pany of Fools? we know not why: I know not a more rational reply that can be made, to that important Que<g ref="char:EOLhyphen"/>ſtion, Why do you obey his preſent Majeſty? than this, Becauſe he hath a right to the Crown he wears, which is the point I have proved.</p>
+            <p>And if my Reaſons for ſuch a Principle of Government, were not of ſuch force, as I believe they are, yet the Prin<g ref="char:EOLhyphen"/>ciple, methinks, deſerves to be embraced of us, for the ſer<g ref="char:EOLhyphen"/>vice it hath done us, in being the Foundation of his Maje<g ref="char:EOLhyphen"/>ſty's Authority, eſpecially if we<g ref="char:punc">▪</g>
+            </p>
+            <p n="2">2. Conſider his Character, that <hi>there is none like him a<g ref="char:EOLhyphen"/>mong the People.</hi>
+            </p>
+            <p>I ſhall paſs by his other Excellencies, and inſiſt only up<g ref="char:EOLhyphen"/>on thoſe that are the neceſſary accompliſhments of Maje<g ref="char:EOLhyphen"/>ſty, wherein I fear not to be exceſſive, he being too great either to be flattered, or duely praiſed.</p>
+            <p>All the Princes of Chriſtendom ſubſcribe to this, that <hi>there is none like him,</hi> and therefore have put the menage of their Affairs into his Hands; I ſay, all Princes but one, who yet believes and trembles.</p>
+            <p>His Majeſty is ſo conſiderable to the fears of that haugh<g ref="char:EOLhyphen"/>ty Monarch, that though he hath ever been thought to have had too nice and tender reſpect for his Honour, as the only <hi>minion</hi> of his Age; yet he hath been pleaſed of late, as is plain to every Body that hath Eyes and will open them, to humble himſelf to the mean drudgery of an Aſſaſſine, to get rid of him by ſome <hi>proxy Bandittis,</hi> he had mployed in that ſervice.</p>
+            <p>And though our King Challenges him, and bravely defies him every day, in the Head of an Army, yet he thinks it ſafer to procure him to be ſtabb'd in a corner, then to meet him in the Field: He begins to miſtruſt the force of his Arms, and rely upon the ſafer Victory of a Poin<g ref="char:EOLhyphen"/>yard or Steletto, and the more eaſie diſpatch of a Butcher
+<pb n="23" facs="tcp:59445:13"/>
+or a Ruffian. <hi>Si timidus eſt homicida eſt,</hi> ſays <hi>Mauritius</hi> of <hi>Phocas;</hi> if he be a Coward he's an Aſſaſſine; and I think I may conclude as truly, if he be an Aſſaſſine he's a Cow<g ref="char:EOLhyphen"/>ard: But to return;</p>
+            <p>Were I to write the Character of an Heroe, I muſt certainly ſet his Majeſty before me as my pattern, and borrow every word of his Character from that Copy, and when you had read it, I am ſure you could not but re<g ref="char:EOLhyphen"/>flect, this muſt be King <hi>William.</hi>
+            </p>
+            <p n="1">1. He is a juſt and a righteous Prince, that came as a Dew, or rather as a ſhower of Rain upon the ſcorched Graſs, that hath brought Law and Equity into Credit again; the Law that hath been jeered and hooted at as an old <hi>Elizabeth</hi> faſhion; he hath repealed the oſtra<g ref="char:EOLhyphen"/>ciſm of poor Baniſhed <hi>Aſtroea;</hi> Juſtice now runs down like a mighty ſtream, to refreſh the City of our God.</p>
+            <p>His very Enemies, ſure can make no exceptions to his Juſtice, unleſs becauſe they have not found the edge of that Sword, turned more upon themſelves, though that perhaps will be a fault no more.</p>
+            <p>Here's now no violating Oaths and Promiſes (thoſe ſhackles of Majeſty, as ſome called them) to deſtroy He<g ref="char:EOLhyphen"/>reticks, no inventing pretenſions of Prerogative, or ſtretch<g ref="char:EOLhyphen"/>ing Power as far as Will and Pleaſure, to come at our Throats; never a <hi>Naboath</hi> hath now loſt his Vineyard; the Will of the Magiſtrate is not now the meaſure of the Law, but the Law the meaſure of his Will, and this way only he's become an abſolute Monarch over the Hands and Hearts of his Subjects.</p>
+            <p n="2">2. He is eminently wiſe, whoſe Councils have ever been ſo prudent as if (as a Tyrant commanded his Picture to be drawn, with his Jupiter whiſpering in his ear) they were all inſpired from Heaven.</p>
+            <pb n="24" facs="tcp:59445:14"/>
+            <p>The laying the late Deſign, that ſtill holds the World in an amazement, ſo ſecretly, without the leaſt noiſe; and then executing of it, with a <hi>veni, vidi, vici,</hi> with<g ref="char:EOLhyphen"/>out Blows or Blood, and carrying it through ſo many in<g ref="char:EOLhyphen"/>tricacies and difficulties, in ſo rugged and uneven a Path, without a fall, nay perhaps without a falſe ſtep or ſtum<g ref="char:EOLhyphen"/>ble, could never be from the conduct of an ordinary genius.</p>
+            <p>I know ſome of his Enemies that ſmiled at it at the firſt, as being too bold and daring an Enterprize for him to undertake: he might even as well as they ſneered, have tried to flap the Sun out with his Feathers; and there<g ref="char:EOLhyphen"/>fore they confidently preſaged, and kindly pitied the poor Princes Ruine; concluding all this <hi>apparatus</hi> was but a Funeral Pomp for his Burial.</p>
+            <p n="3">3. He is generous and publick Spirited; whatever was left him by his Anceſtors, or hath been given by the bounty of his Parliaments, 'tis <hi>Corban</hi> all dedicated to the ſervice of his Country.</p>
+            <p>Here are now no ſums to count, for the bribing of Juries to take away Mens Lives; no <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as was ſaid of <hi>Demoſthenes,</hi> to ſtop the Mouth of Judges; upon his <hi>Exchecquer</hi> may well be written, <hi>For God and his Coun<g ref="char:EOLhyphen"/>try.</hi>
+            </p>
+            <p n="3">3. He is patient and merciful, even to a Crime, that hath ſpared his Enemies, to the Hazard of himſelf and Government; thoſe that have thirſted after his Blood, have not provoked him to ſhed a drop of theirs, his Laurels have hitherto grown and thriven, without ſuch watering.</p>
+            <p>When he firſt appeared amongſt us, he did not hew himſelf a way through the thickeſt of his Enemies, or Erect a Trophy, as the <hi>Perſian</hi> Tyrant did of their Sculls.</p>
+            <pb n="25" facs="tcp:59445:14"/>
+            <p>And for a long time ſince, though we have ſeen ſome of them ſecured from doing miſchief, we have ſeen no Scaffolds reeking with their Gore; though he hath Slain his Thouſands, and Ten Thouſands in the Field, yet he hath had no diſpoſition to take away a ſingle Life at the Bar.</p>
+            <p>There have been Men of <hi>Belial,</hi> even with us too, that have not ſpared his Name and Honour, that have made ſport with our <hi>Sampſon</hi> in every place, but ſtill he hath kept Silence; he takes no more notice of them, then the Moon does of the little Curs that bark at her; he moves on ſtill in his Orb, keeps ſteddily his courſe, con<g ref="char:EOLhyphen"/>tinues to ſcatter his benign influences of Protection and Grace, upon the Head of thoſe very Dogs that bark at him.</p>
+            <p>I know this hath been interpreted as an act of puſillanimi<g ref="char:EOLhyphen"/>ty and cowardiſe; becauſe ſentence was not preſently exe<g ref="char:EOLhyphen"/>cuted upon the Sons of Wolves and Tigers, (for Men ſure they could not be) therefore, as <hi>Solomon</hi> ſays, <hi>They were hardned in their Villanies, and their hearts were ſet upon to do the greater miſchief;</hi> that he ſpared them ſo long, they told us, 'twas not his Clemency but his Fear, and he durſt not touch them: He thought his Clemency to<g ref="char:EOLhyphen"/>wards them, might have at laſt ſweetned his Enemies in<g ref="char:EOLhyphen"/>to a Compliance and Obedience; but he finds whole Ri<g ref="char:EOLhyphen"/>vers of Oyl will never ſoften a Flint, and rougher methods muſt be uſed to break them to pieces.</p>
+            <p>I know not but the late loud crying Treaſon may have Rouzed a ſleepy Lion, and awakened his Juſtice, when his Enemies are grown to ſuch an height of Impudence, as to ſay plainly, with thoſe mutinous <hi>Iſraelites, He ſhall</hi>
+               <note place="margin">1 <hi>Sam.</hi> 11. 12.</note> 
+               <hi>not reign over us: Come, let's kill the Heir, that the Inhe<g ref="char:EOLhyphen"/>ritance may be ours;</hi> perhaps that may conſtrain our <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> to his Thunder, being ſo pent up with this <hi>dilemma,</hi>
+               <pb n="26" facs="tcp:59445:15"/>
+that either ſome few muſt periſh or his People; he may force himſelf very piouſly, as <hi>Saul</hi> did wickedly enough, to offer up ſome few Sacrifices for their Safety.</p>
+            <p n="4">4. He is true and faithful, who can no more break then others can keep their words.</p>
+            <p>He cannot violate Leagues for his own Glory, nor be Perjured for God's; he cannot cancel the ſacredeſt tyes of Religion, for Religion; he hath not the confidence to publiſh to the World, as another hath done, that even when he granted his Edicts of Grace, he waited but an oppor<g ref="char:EOLhyphen"/>tunity to infringe them, placing his chief Glory and Me<g ref="char:EOLhyphen"/>rit in a Religious Treachery.</p>
+            <p n="5">5. He's truly Religious, ſent to redeem our Captivated Ark, out of the <hi>Philiſtins</hi> Hands; to ſpread himſelf like an <hi>Elijah</hi> upon the poor dying <hi>Shunamite;</hi> fainting and languiſhing Proteſtancy, and reſtore her to life again, as a <hi>Moſes,</hi> with the lifting up of his Rod, and a puff of his Mouth, to blow away all the Loeuſts of <hi>Rome,</hi> and ſwarms of Maſs Prieſts that peſtered this Nation, and threatned a Spiritual Famine to it; inſtead of the Calves of <hi>Dan</hi> and <hi>Bethel,</hi> to reſtore to us the worſhip of the true <hi>Jehovah,</hi> inſtead of a Latine mummery, an intelli<g ref="char:EOLhyphen"/>gible Devotion.</p>
+            <p n="6">6. He is Bold and Valiant, his Enemies muſt acknow<g ref="char:EOLhyphen"/>ledge him the moſt intrepid, that ever faced a Danger; there ſeems not to be a jot of that Paſſion of fear in his Conſtitution; he converſes with 1000 of Deaths every<note place="margin">
+                  <hi>Job</hi> 17. 14.</note> day, as familiarly as <hi>Job</hi> did, that calls Death Father, Mother and Siſter; he was never daunted though Death made never ſo near approaches to himſelf, as at the <hi>Boin</hi> when it clapt him on the Shoulder, as if it had Arre<g ref="char:EOLhyphen"/>ſted him; but bleſſed be God, it was not in the King of Heavens Name, and ſo he eſcaped.</p>
+            <pb n="27" facs="tcp:59445:15"/>
+            <p>Death that King of Terrours, could not ſo much as affright or appale him in the leaſt, till it ſo fatally woun<g ref="char:EOLhyphen"/>ded his ſecond ſelf; Death was faint to aſſault his Love, whilſt it could not in the leaſt excite his fear, or van<g ref="char:EOLhyphen"/>quiſh his Courage, and then our <hi>Sampſon</hi>'s Strength went away, and he became like other Men.</p>
+            <p n="7">7. He is of an unparallel'd Humility and Moderation; when he had done all things that made him worthy to Rule, he would do nothing that he might Rule, and if it might have been done without it, he ever eſteemed it a greater Honour to be <hi>England</hi>'s Saviour, then her Soveraign.</p>
+            <p>Had not that Honour been conferred upon him, as <hi>Cato</hi> ſaid when he was asked, why he had not his Sta<g ref="char:EOLhyphen"/>tues, he could have been as well pleaſed the World ſhould have ask't, why he had them not, why he was not King?</p>
+            <p>'Tis a filthy Calumny to ſay, when he came over, his aim was at a Crown.</p>
+            <p>Could not he have found a means to have given the late King the Glory of a Canoniſation, as another King did <hi>Becket,</hi> if he had pleaſed?</p>
+            <p>Did not he declare for a Parliament, and treat with King <hi>James</hi> about it? where King <hi>James</hi> himſelf was to have had a Negative, and 'twas ſomewhat unlike he would give his <hi>le Roy vult,</hi> to his own Depoſing.</p>
+            <p>Beſides, 'Twas not then a Crown to be ſcrambled for through ſo many Difficulties, and Dangers that ſurroun<g ref="char:EOLhyphen"/>ded it.</p>
+            <p>Nothing could have tempted a wiſe Man to have accept<g ref="char:EOLhyphen"/>ed of it, but the Glory of ſaving a Nation.</p>
+            <p>Who would have affected to have climbed up ſuch a Mount of Honour, for the fate of a <hi>Syſiphus,</hi> to be al<g ref="char:EOLhyphen"/>ways Rolling of an heavy ſtone, or of a <hi>Prometheus</hi> to
+<pb n="28" facs="tcp:59445:16"/>
+have ſo many cares, as ſo many Vultures, always gnaw<g ref="char:EOLhyphen"/>ing at his Heart.</p>
+            <p>When he accepted of the Scepter, he ſeemed to offer himſelf as another <hi>Iſaac,</hi> rather to be a Sacrifice for us, then a Soveraign to us, though I truſt <hi>Jehovah Jireh</hi> God Almighty in Mercy to this poor Nation, will provide himſelf another.</p>
+            <p>Had he been ſo fond of a Crown, he might have en<g ref="char:EOLhyphen"/>joyed one to deſtroy a Neighbour State, he choſe rather to endure one to ſave ours.</p>
+            <p>'Twas then a Lumbardy Crown of Iron, not worthy to be raviſhed by Blood, and any but our Heroe (as the <hi>Sammites</hi> with their Jewels) would have been preſt to Death, with the weight of it.</p>
+            <p>
+               <hi>Vlt.</hi> He hath actually delivered us from the <hi>Ammo<g ref="char:EOLhyphen"/>nites:</hi> I am very loath to darken the Joy of this Day, by calling you to a ſad and mournful retroſpect upon that diſmal time, when the <hi>Ammonites</hi> carried themſelves ſo Tyrannically and Proudly over us; when we were beaten as the <hi>Iſraelites</hi> in <hi>Aegypt,</hi> but we muſt not cry, burden<g ref="char:EOLhyphen"/>ed, but we muſt not groan, if we whimpered never ſo little, in the moſt humble manner, and Petitioned, we were Impriſoned, Fined, Arraigned and Condemned.</p>
+            <p>We ſaw Religion lye a bleeding, our Ark ready to be taken, while we ſate ſighing and ſobbing out our <hi>Icabobs</hi> after Catholique Arguments, could do no good; we expected nothing but Catholique Cruelty, to be Drub'd and Dragoon'd out of our Faith, and Converted by ſuch Apoſtolical Miſſionaries, as are ſent out of an Army.</p>
+            <p>We ſaw our Laws, the only ſences of our Liberties, Properties, Lives, Religion, trodden under foot; theſe were look't upon as Fetters for us Slaves and Vaſſals, and became not the Majeſty of a Prince to wear, whom they
+<pb n="29" facs="tcp:59445:16"/>
+counted no leſs than God himſelf unbounded and unli<g ref="char:EOLhyphen"/>mited, by any Law but his own Will.</p>
+            <p>We ſaw our Priſons cram'd with the Patriots of our Country, and our Benches filled with Traytors, our Free<g ref="char:EOLhyphen"/>holds taken away from us, by no other Law but a <hi>Sic volo ſic jubeo,</hi> for it is our Pleaſure.</p>
+            <p>We have ſeen Gentlemen thrown out of Civil and Mi<g ref="char:EOLhyphen"/>litary Imployments, who had ſometimes been unadvi<g ref="char:EOLhyphen"/>ſedly the Inſtruments of their Tyranny, yet when the Hood was taken off, and they came to ſee whither they were going, ſo that they began to make a ſudden Start, and ſtop, and could be whipt and ſpur'd no further, we have ſeen them turned up like tired Hackneys, for freſh ones fitter for their Drudgery.</p>
+            <p>Corporations have been garbled, that we might have no Parliaments; but as the Council of <hi>Trent</hi> was ſaid to be guided by that Holy Ghoſt ſent thither in a Cloak<g ref="char:EOLhyphen"/>bag from <hi>Rome,</hi> no Parliaments, I ſay, but ſuch as ſhould have been guided by a Male from <hi>White-hall.</hi>
+            </p>
+            <p>But I have not time to reckon up all their Ammo<g ref="char:EOLhyphen"/>nitiſh Dealings with us, this only remains, that our Mi<g ref="char:EOLhyphen"/>ſery, to all appearance, was irremediable, no Peace or Covenant to be made with them, but at the Price of our Senſes; 'twas not an Eye would ſerve their turn<g ref="char:punc">▪</g> we muſt neither Feel, nor Taſte, nor See; the Captains of theſe <hi>Ammonites</hi> have told us, we muſt renounce our Senſes, and ſtoutly Believe; that is in ſhort, we muſt turn <hi>Ammonites.</hi>
+            </p>
+            <p>Thanks be to God our Hero hath delivered us from theſe <hi>Ammonites,</hi> he hath reſcued our Laws, our Lives, our Ten Commandments, our Bibles; the Light of the Goſpel now ſhines, for all the Flattering of theſe Night<g ref="char:EOLhyphen"/>birds about it, who have but burnt their Wings, and fanned our Light, and made it ſhine clearer.</p>
+            <pb n="30" facs="tcp:59445:17"/>
+            <p>Bleſſed be God we may now look into our Bibles with<g ref="char:EOLhyphen"/>out a Licenſe, and come to the King of Heaven without the Mediation of any Courtier but his Son; we may obtain our Pardons at a cheaper Rate, than at their Markets; receive our God in the Sacrament without dan<g ref="char:EOLhyphen"/>ger of eating of him; exerciſe our Faith without hazard of our Eyes.</p>
+            <p>I know we have Sons of <hi>Belial</hi> can hear all that with a Scornful Smile, I pray where, ſay they, was that great Danger you talk of, theſe were only Imaginary Dragons and Serpents we feigned to our ſelves in the Air,, no ſuch Monſters, God be thanked, were to be found on Earth<g ref="char:punc">▪</g> Where were thoſe Axes, and Gibbets, and Sambenits, and Faggots, you Dream of?</p>
+            <p>Good God, no Danger! Muſt not we flee from a Fire that was apparently breaking in upon us, till we be burnt, nor ſend for a Phyſician till we are Dead?</p>
+            <p>No Danger? while we were in the hands of ſuch Men who were under a Vow to deſtroy Hereticks; and I can<g ref="char:EOLhyphen"/>not tell whither we might have truſted them for the keep<g ref="char:EOLhyphen"/>ing any other.</p>
+            <p>No Danger? To be ſure it was the greater for this falſe Cry, to bring us into it.</p>
+            <p>The Net was not, as <hi>Solomon</hi> ſays, to be ſpread in the ſight of the Bird, and ſome muſt be imployed to cover the mouth of the Pit, and by ſuch falſe cries decoy us into it. We are ſure enough there was a Snare, as I have ſufficiently proved, but Thanks be to God 'tis broken, and we are delivered.</p>
+            <p>And where are the Men now that have ſaid, Who is he that he ſhould Rule over us? Shall we ſay as theſe <hi>Iſraelites,</hi> Bring them out that we may put them to Death?</p>
+            <pb n="31" facs="tcp:59445:17"/>
+            <p>As for thoſe Miſcreants, who could not be ſatisfied with a Drunken Debauch at a Tavern, unleſs they drank Healths to their Maſter, as they called him, in whole Bowls of Engliſh Blood, I leave them to the Juſtice of the Government; but for others that Conſcientiouſly and Peaceably Diſſent, I only ſay God Almighty open the Eyes of theſe Men, and for the Scandal they daily give to the Government, Father forgive them for they know not what they do.</p>
+            <p>And now how can we ſufficiently Praiſe that God, that hath choſen ſuch a Deliverer for us, none like him among the People; I know not whether he could have ſent ſuch another, unleſs he had created one on purpoſe for this Glorious Deſign: There have been ſome that would have adored him as a God for it, and decreed him an Apo<g ref="char:EOLhyphen"/>theoſis.</p>
+            <p>To be ſure he Merits more to be our Patron, than ano<g ref="char:EOLhyphen"/>ther, that hath ſo valiantly Fought the Dragon, and reſ<g ref="char:EOLhyphen"/>cued our Virgin Church, the Pureſt and moſt Beautiful of any in the World.</p>
+            <p>The laſt Labour of our Hero remains to quell a Monſter, the Peſt and Plague of <hi>Europe,</hi> who is now forced to uſe his utmoſt Strength and Policy, as a dying Serpe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, ſtretches out her ſelf at full length, he reſolves, I hear, this Summer, to give his deadly Kick and Spurn, as a Beaſt about to dye.</p>
+            <p>And truly I do not doubt, but with God's Bleſſing up<g ref="char:EOLhyphen"/>on the Conduct of our Hero, we ſhall yet point at that Lucifer, if our Sins do not too much befriend him, with Contempt and Scorn; How art thou fallen thou Son of the Morning, they that have ſeen thee ſhall narrowly look upon thee, and ſay, is this the Man that made the Earth to tremble, that did ſhake Kingdoms, and made the World as a Wilderneſs; that deſtroyed Cities; that
+<pb n="32" facs="tcp:59445:18"/>
+terrible <hi>Leviathan,</hi> ſee where he lyes ſprawling upon dry Ground, with the Almighty's Hook in his No<g ref="char:EOLhyphen"/>ſtrils, <hi>Amen, Amen.</hi> Threeſold uſe to be made of this Point.</p>
+            <p n="1">1. Let all our <hi>Iſrael</hi> render the moſt Cordial and Con<g ref="char:EOLhyphen"/>ſcientious Obedience to him whom God hath choſen, as one therefore that hath a Right to the Crown he wears: I hope I have ſufficiently proved this Point, beſides this Doctrine hath lately had the <hi>Weſtminſter</hi> Stamp upon it, and therefore now I truſt it may go for currant. I am ſure the contrary, that the King is not choſen of God, and hath no Right to his Crown, if it be not Treaſon, yet is the Mother of it, that Mother that lately went big with ſo many <hi>Granvils, Fawkes, Parryes,</hi> and <hi>Throg<g ref="char:EOLhyphen"/>mortons, Clements</hi> and <hi>Ravilliacs,</hi> but bleſſed be God the Monſter miſcarried.</p>
+            <p>The Nation ſeems at laſt to have the ſame Sence of the Miſchievous Conſequence of this Principle, and there<g ref="char:EOLhyphen"/>fore have juſtly arraigned and condemned it in their Aſſo<g ref="char:EOLhyphen"/>ciations.</p>
+            <p>Doth it not plainly follow, from the Point proved, that His preſent Majeſty is choſen of God, that we ſhould ren<g ref="char:EOLhyphen"/>de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the moſt Cordial Obedience to him, as one that hath Right to Rule us.</p>
+            <p>Should we warily ſuſpend and hover till Succeſs and Victory ſatisfie our Tender Conſciences, and reſolve our Doubts?</p>
+            <p>Should we only ſubmit to him as a King <hi>de facto,</hi> for Wrath, till Opportunity offer it ſelf to pay our Duty to another ſuppoſed <hi>de Jure,</hi> for Conſcience-ſake? Which is a <hi>Becket</hi>'s Obedience, <hi>Salvo jure Papae.</hi>
+            </p>
+            <p>Should we ſhelter our ſelves under the ſhadow of his Government, and creep into his Boſom, only for Warmth and Vigour to ſting him as ſoon as we dare.</p>
+            <pb n="33" facs="tcp:59445:18"/>
+            <p>Should we take Oaths to ſuch a King, as weak Sto<g ref="char:EOLhyphen"/>machs do a Potion, which we are ready to throw up again immediately, or as an Amulet and Charm to keep off Danger.</p>
+            <p>Should we make it our buſineſs, to damp and cool Mens Zeal to ſuch a Government.</p>
+            <p>When we had one on the Throne, too great a Friend to Popery, God knows, How were we then for the Di<g ref="char:EOLhyphen"/>vine Right of Government, what a general Out-cry was there through the Nation, for the great <hi>Diana</hi> of Abſolute Prerogative, Non-reſiſtance, Soveraign Power above Law, Irreſiſtable Tyranny, we were ready to ſpit Hell<g ref="char:EOLhyphen"/>fire and Damnation in the Faces of every one that op<g ref="char:EOLhyphen"/>poſed.</p>
+            <p>And when ſome went about to remove a Popiſh Suc<g ref="char:EOLhyphen"/>ceſſor, then the indefeaſable and Divine Right of Suc<g ref="char:EOLhyphen"/>ceſſion is the Theme, other Sins eſcape without much notice, while Sacrilege, Rebellion and Treaſon, are the Wild Beaſt let looſe to be chaſed and hunted down by us.</p>
+            <p>Do but mention a Bill of Excluſion, all our Beacons are ſet on Fire, as if <hi>Geneva</hi> and <hi>Scotland</hi> were pouring in upon us whole Hoſts of Claſſes and Lay-Elders.</p>
+            <p>Preſently we are deafned with the noiſe of 41, and Thou<g ref="char:EOLhyphen"/>ſands of ghaſtly Spectrums are conjured up to ſcare little Children with, for I dare ſay few wiſe Men were con<g ref="char:EOLhyphen"/>cerned at them.</p>
+            <p>But now that we have a Proteſtant King, who when Popery was ruſhing in upon us, hath thrown himſelf into that Flood, to ſtem the Torrent with his naked Breaſt, Good God what a cold <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it hath been upon us to aſſert his Government? If a Man hath been never ſo little warm, in the Juſtification of His Majeſty, he muſt be ſure to run the Gantlope, and to indure almoſt a St. <hi>Stephen</hi>'s
+<pb n="34" facs="tcp:59445:19"/>
+Martyrdom, to be pelted with Stones, or words almoſt as hard.</p>
+            <p>How have the Diſcreet, and the Wiſe, been applauded, the Men of Temper and Moderation?</p>
+            <p>
+               <hi>Hoc Ithacus velit,</hi> There's a Gentleman in the World, that cares not how Soft and Moderate we are I warrant you.</p>
+            <p>I hope the late execrable Treaſon hath chafed our Zeal into a warmer Temper at laſt: So that we ſhall not only yield our Obedience to His preſent Majeſty for Con<g ref="char:EOLhyphen"/>ſcience-ſake, as to one that hath a Right to govern us, being choſen of God, but with a Zeal ſuitable to the pre<g ref="char:EOLhyphen"/>ſent Importance of the Duty.</p>
+            <p n="2">2. Let us pour out our Hearty Thankſgivings unto God, that hath not only given us ſuch a Ruler upon the Fifth of <hi>November,</hi> but given him again to us, by daſh<g ref="char:EOLhyphen"/>ing that Murderous Deſign againſt him on the 21ſt of <hi>February.</hi>
+            </p>
+            <p>This was a Deſign ſo plain and evident, that it is not capable of a Sham, no Meal-Tub or Presbyterian Plot can be deviſed to ballance it, no Youths from St. <hi>Omers</hi> can be gotten to out-face it, the moſt frontleſs Impu<g ref="char:EOLhyphen"/>dence begins to be aſhamed of it; and they whoſe Fore<g ref="char:EOLhyphen"/>heads were hard enough to baffle the Deſign of 78, ſeem ſomewhat to bluſh at this of 95.</p>
+            <p>This was again a Deſign ſo Miſchievous, to take away the Light of our Eyes, and the Breath of our Noſtrils!</p>
+            <p>They had obtained one part of <hi>Nero</hi>'s Wiſh, for all the People of <hi>England</hi> had morally but one Neck, and they had like to have obtained the other, to have cut it off at a Blow, if the Almighty had not with-held them. Thoſe Artificers of the Church of <hi>Rome,</hi> will be aſhamed ſure, to ſee themſelves out-done in their own Craft, by our new Workmen in Iniquity, to ſee a Modern Villany
+<pb n="35" facs="tcp:59445:19"/>
+ſo far exceed their old Jeſuitical patterns, and faced with ſuch an impudence, as only became their Fraternity<g ref="char:punc">▪</g> when <hi>they had Travelled with Iniquity,</hi> as the <hi>Pſalmist</hi> ſays, and brought forth Falſhood, and the bloodieſt De<g ref="char:EOLhyphen"/>ſigns that ever was contrived to be done by Day-light: They had the boldneſs to lay the Monſter at Heavens Gates, and invite the Holy God to anſwer for it; tel<g ref="char:EOLhyphen"/>ing him plainly, 'twas his Cauſe; that what they did was for him, and his Religion: Ah <hi>pudet haec dici potu<g ref="char:EOLhyphen"/>iſſe,</hi> That ſuch an horrible thing ſhould ever be commit<g ref="char:EOLhyphen"/>ted in our Land.</p>
+            <p>This was ſo Bloody and Barbarous a Deſign, that the Fifth of <hi>November,</hi> ſeems to be jealous ſhe ſhould loſe the honour of precedence. They have ſtretched out their Hands, but as the <hi>Pſalmiſt</hi> ſays, <hi>None of the men of might have found them:</hi> At the inſtant, when they ſhould have ſtruck the blow, God ſends a Cramp into them, and down drops the bloody Sword, and lets looſe a Tormentor upon ſome of their Conſciences, that never left ſtinging and laſhing them with Terrors, till they drove them to his Majeſty's Feet; crying out <hi>Non poſſum occidere Marium,</hi> Sir, I can't kill you; and from that wrack they diſcover all.</p>
+            <p>Though ſome of the Party have Armed their Conſci<g ref="char:EOLhyphen"/>ences with ſuch a <hi>Callus,</hi> that the Guilt of ſuch a Trea<g ref="char:EOLhyphen"/>ſon, could not be able to fix a Sting upon them, or make them in the leaſt ſenſible. For God's ſake let it not be Reported, that Three Clergy Men of the Church of <hi>England</hi> ſhould aſſiſt them, to put on that Ar<g ref="char:EOLhyphen"/>mour of Hell, juſt when they were to encounter the King of Terrours, and ſtep into an Eternal State: Ah, tell it not in <hi>Gath,</hi> publiſh it not in the Streets of <hi>Askelon,</hi> leaſt the Daughters of the Uncircumciſed <hi>Phi<g ref="char:EOLhyphen"/>liſtins</hi>
+               <pb n="36" facs="tcp:59445:20"/>
+Triumph! notwithſtanding ſome of them have con<g ref="char:EOLhyphen"/>teſt the Villany, and I hope repented of it; ſo that the ſnare is broken by the Snare-makers themſelves, and bleſ<g ref="char:EOLhyphen"/>ſed be God we are Delivered.</p>
+            <p>Great God, What Thankſgivings are due to thee for this Deliverance! that contains in it ſo many Deliveran<g ref="char:EOLhyphen"/>ces; a Deliverance of our Laws, Liberties, Properties, Lives, and that which is dearer ſtill, our Bibles. What Heart can be big enough to receive the Joy of it? What Voices can be loud enough to ſing thy Praiſes for it? Shall we call to Heaven in Holy <hi>David</hi>'s Rapture, <hi>Pſal,</hi> 148. 2. to the Holy Angels, to aſſiſt us with theirs? while we are ſinging our <hi>Te Deums</hi> and <hi>Magnificats;</hi> or, ſhall we pauſe a while, till we our ſelves be admitted into their Quire, when our Harps ſhall be better Strung, and our Voices more in Tune to joyn with them in that Anthem, <hi>Rev.</hi> 5. 13. <hi>Bleſſing and Honour, Glory and Power be unto him that ſitteth on the Throne, and to the Lamb for ever and ever.</hi>
+            </p>
+            <p>In the mean time, What ſhall we render unto God? our Flocks and Herds are too ſcant a Sacrifice, whole <hi>Lebanon</hi> will not be ſufficient for Burnt-Offe<g ref="char:EOLhyphen"/>rings.</p>
+            <p>Let's offer up our ſelves, our Souls and Bodies, as a living, holy, acceptable, Sacrifice, which is our reaſonable Service; let's reſolve as <hi>David,</hi> truly Lord we will be thy Servants, and this God ſhall be our God unto Death.</p>
+            <p n="3">3. Let's pray for him whom the Lord hath choſen, as the <hi>Iſraelites</hi> did here for <hi>Saul;</hi> Lets thus hold up his heavy Hands now, that he's going forth to Fight the <hi>Amalekites;</hi> let's fire all our Spiritual Artillery againſt
+<pb n="37" facs="tcp:59445:20"/>
+that <hi>Agag.</hi> as the <hi>Chriſtians</hi> did againſt <hi>Julian,</hi> when he ſought againſt the <hi>Perſians.</hi>
+            </p>
+            <p>Let's Petition for him, as the Church did for <hi>David, the Lord bleſs him in the day of his trouble, the Name of the God of Jacob defend him, ſend him help from the San<g ref="char:EOLhyphen"/>ctuary, and ſtrengthen him out of Sion.</hi>
+            </p>
+            <p>Let's pray, That he may have health of Body, length of Days, Loyal Subjects, Powerful Fleets and Armies, Faithful Allies, Succeſs and Victory over his Enemies, the ſtability of his Righteous Throne in this World, and the Poſſeſſion of a Crown of Righteouſneſs in the World to come.</p>
+            <p>I hope there is none of us will yet continue ſo moroſe and ſullen, but (as the Murmuring <hi>Iſraelites</hi> did at laſt, being ſufficiently ſatisfied with the Wiſdom of God's Choice, that there was not ſuch another to be found a<g ref="char:EOLhyphen"/>mong the People) will joyn with us in the common Shout and Acclamation, <hi>God Save King</hi> WILLIAM.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
